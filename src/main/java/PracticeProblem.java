@@ -9,7 +9,16 @@ public class PracticeProblem {
 	}
 
 	public static void q1() {
-		//Write question 1 code here
+		int number1;
+		int number2;
+		int number3;
+		number1=2;
+		number2=3;
+		number3=5;
+		System.out.println(number1);
+		System.out.println(number2);
+		System.out.println(number3);
+	
 	}
 
 	public static void q2() {
