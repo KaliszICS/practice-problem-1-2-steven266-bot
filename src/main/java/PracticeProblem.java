@@ -11,13 +11,12 @@ public class PracticeProblem {
 	public static void q1() {
 		int number1;
 		int number2;
-		int number3;
-		number1=2;
-		number2=3;
-		number3=5;
+
+		number1=10;
+		number2=30;
+
 		System.out.println(number1);
 		System.out.println(number2);
-		System.out.println(number3);
 	
 	}
 
@@ -36,18 +35,17 @@ public class PracticeProblem {
 		double number7;
 		number6=(5.2);
 		number7=(5.3);
-		System.out.println(number6/number7);
+		System.out.println(number7/number6);
 	}
 
 	public static void q4() {
-		int number(8);
-		int number(9);
-		int number(10);
-		int number(11);
+		int number8;
+		int number9;
+		int number10;
 		number8=2;
 		number9=3;
 		number10=4;
-		System.out.println((number8+number9)*number10));
+		System.out.println((number8+number9)*number10);
 	
 	}
 
